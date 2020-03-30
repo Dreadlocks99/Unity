@@ -1,0 +1,4 @@
+You enter a room, in the corner you see a dead body sitting with a knife in its hand, what do you decide to do?
+
+1- Investigate the crime scene and try to understand the blood patterns.
+2- Call the police.
